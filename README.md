@@ -1,2 +1,2 @@
 # Flutter-Widgets
-Listview, ListTiles, Card Widget, Alert, Cupertino Dialog, Infinite Scroll, Image, FadeIn Image, Switches, Dropdown Button, etc.
+Listview, ListTiles, Card Widget, Alert, Cupertino Dialog, Image, FadeIn Image, TextFormFields, Avatar, Widget Form, etc.
